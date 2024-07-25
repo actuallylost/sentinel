@@ -1,8 +1,8 @@
 {
-	"name": "lunarstack",
-	"version": "0.3.2",
+	"name": "sentinel",
+	"version": "0.1.0",
 	"author": "actuallylost",
-	"license": "MIT",
+	"license": "AGPL-3.0-only",
 	"type": "module",
 	"scripts": {
 		"prepare": "husky"
